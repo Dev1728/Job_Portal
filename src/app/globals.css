@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    overflow-y: scroll; /* Ensures scrolling is still possible */
+    scrollbar-width: none; /* For Firefox */
+  }
+  
+body::-webkit-scrollbar {
+    display: none; 
+}
+  
+  

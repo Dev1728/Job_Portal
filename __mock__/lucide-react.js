@@ -1,0 +1,13 @@
+export const BriefcaseBusinessIcon = () => 'MockBriefcaseBusinessIcon';
+export const Menu = () => 'MockMenuIcon';
+export const X = () => 'MockXIcon';
+export const FileText = () => 'MockFileText';
+export const Mail = () => 'MockMail';
+export const Users = () => 'MockUsers';
+export const Send = () => 'MockSend';
+export const LayoutGrid = () => 'MockLayoutGrid';
+export const FileSearch = () => 'MockFileSearch';
+export const Instagram = () => 'MockInstagram';
+export const Facebook = () => 'MockFacebook';
+export const Linkedin = () => 'MockLinkedin';
+export const MessageCircle = () => 'MockMessageCircle';
